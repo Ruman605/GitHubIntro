@@ -5,3 +5,4 @@ bananas
 mangoes
 watermelon
 oranges
+cereal
