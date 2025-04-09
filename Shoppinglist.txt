@@ -6,4 +6,3 @@ mangoes
 watermelon
 oranges
 cereal
-milk
